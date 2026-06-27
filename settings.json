@@ -8,7 +8,7 @@
   "server": {
     "ip": "mialcraft.aternos.me",
     "port": 30333,
-    "version": "1.21.1",
+    "version": "26.1.1",
     "try-creative": false
   },
   "position": {
