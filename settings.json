@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "mialcraft.aternos.me",
+    "ip": "mialcraft.aternos.me:30333",
     "port": 30333,
     "version": "1.21.11",
     "try-creative": false
